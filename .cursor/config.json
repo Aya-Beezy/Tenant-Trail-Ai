@@ -1,0 +1,13 @@
+{
+  "projectName": "AI-Driven Tenant Lead Identification System",
+  "codingStandards": {
+    "style": {
+      "python": {
+        "formatter": "black",
+        "lineLength": 88,
+        "docstringStyle": "google",
+        "typeHints": true
+      }
+    }
+  }
+}
